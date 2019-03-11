@@ -1,6 +1,8 @@
+# 日本デジタル・ヒューマニティーズ文学研究会
+
 ## ようこそ
 
-日本デジタル・ヒューマニティーズ文学研究会の公式ページです．
+日本デジタル・ヒューマニティーズ文学研究会（Japan Digital Humanities Literature Studies Association, JDHLSA）の公式ページです．
 
 <span style="font-size: xx-small">JADHとは無関係な組織です．</span>
 
