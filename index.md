@@ -24,7 +24,7 @@ title: 日本デジタル・ヒューマニティーズ文学研究会
 
 ### グループに参加する
 
-Slackにて情報連絡をしています．Slackはメールアドレスのみで登録可能なチャットアプリケーションで，文章やファイルを様々な方法で共有できます．気軽に参加してください．
+Slackにて情報連絡をしています．Slackはメールアドレスのみで登録可能なチャットアプリケーションで，文章やファイルを様々な方法で共有できます．お気軽に参加していただければ幸いです．
 
 [参加する](https://join.slack.com/t/jadhls/shared_invite/enQtNTcxNzQyMDkyODE2LTUzM2M4NzFkZGM5YzBlZDhlMjdkYzZkMjc5ZGYzMDNiN2VlZGRmMzc4OGFlOWZlMDJkZDE2Y2Q1YmRjZmE0NGY)
 
