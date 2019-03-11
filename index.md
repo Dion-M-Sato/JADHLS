@@ -2,7 +2,7 @@
 
 ## ようこそ
 
-日本デジタル・ヒューマニティーズ文学研究会（Japan Digital Humanities Literature Studies Association, JDHLSA）の公式ページです．
+日本デジタル・ヒューマニティーズ文学研究会（Japanese Association for Digital Humanities in Literature Studies, JADHLS）の公式ページです．
 
 <span style="font-size: xx-small">JADHとは無関係な組織です．</span>
 
@@ -17,4 +17,10 @@
 ### 研究会開催記録
 
 現在準備中
+
+### グループに参加する
+
+Slackにて情報連絡をしています．Slackはメールアドレスのみで登録可能なチャットアプリケーションで，文章やファイルを様々な方法で共有できます．気軽に参加してください．
+
+[参加する](https://join.slack.com/t/jadhls/shared_invite/enQtNTcxNzQyMDkyODE2LTUzM2M4NzFkZGM5YzBlZDhlMjdkYzZkMjc5ZGYzMDNiN2VlZGRmMzc4OGFlOWZlMDJkZDE2Y2Q1YmRjZmE0NGY)
 
