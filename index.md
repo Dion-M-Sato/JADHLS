@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## ようこそ
 
-You can use the [editor on GitHub](https://github.com/Dion-M-Sato/jdh_literature/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+日本デジタル・ヒューマニティーズ文学研究会の公式ページです．
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<span style="font-size: xx-small">JADHとは無関係な組織です．</span>
 
-### Markdown
+### 設立目的
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+日本デジタル・ヒューマニティーズ文学研究会は，日本での文学研究にデジタル・ヒューマニティーズをどのように応用し研究で利用していくかを参加者とともに考え，ゲスト講師を交えたディスカッションなどを行なっていく研究会です．
 
-```markdown
-Syntax highlighted code block
+### 代表者
 
-# Header 1
-## Header 2
-### Header 3
+佐藤正尚（東京大学総合文化研究科言語情報科学専攻博士後期課程）
 
-- Bulleted
-- List
+### 研究会開催記録
 
-1. Numbered
-2. List
+現在準備中
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Dion-M-Sato/jdh_literature/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
